@@ -1,6 +1,8 @@
+import { Container } from "./styles";
+
 function Home() {
     return (
-        <div>
+        <Container>
         <h1>Movies</h1>
         <ul>
             <li>
@@ -17,7 +19,7 @@ function Home() {
             </li>
         </ul>
         
-        </div>
+        </Container>
     )
 }
 
