@@ -5,7 +5,7 @@ This project uses React library to consume a list of popular movies from the Mov
 
 You can also view details from a movie when you click on it.
 
-<img scr="../../public/img/movies.png">
+<img scr="../public/img/movies.png">
 <img scr="../../public/img/details-movies.png">
 
 ## Stack
